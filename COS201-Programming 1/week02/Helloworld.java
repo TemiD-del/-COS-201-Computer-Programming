@@ -5,9 +5,9 @@ public class Helloworld {
         System.out.println("Hello, World!");
         System.out.println("Welcome to COS 201.");
         System.out.println("I am learning Java programming.");
-        System.out.println("STUDENT NAME: Egwu Chinecherem Victoria");
-        System.out.println("MATRIC NUMBER: 25/17785");
-        System.out.println("DEPARTMENT: Computer Science");
+        System.out.println("STUDENT NAME: Adeyemi Temidire Jedidiah ");
+        System.out.println("MATRIC NUMBER: 25/17116");
+        System.out.println("DEPARTMENT: software engineering ");
         System.out.println("LEVEL: 200 Level");
         System.out.println("COURSE: COS 201");
         System.out.println("COURSE TITLE: Computer Programming I");
